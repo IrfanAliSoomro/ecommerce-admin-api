@@ -1,0 +1,9 @@
+# Database Configuration
+DATABASE_URL="mysql+pymysql://user:password@host:port/database_name"
+
+# API Settings
+API_V1_STR="/api/v1"
+PROJECT_NAME="E-commerce Admin API"
+
+# Optional: Secret key for JWT (if we add authentication later)
+# SECRET_KEY="your_secret_key_here"
